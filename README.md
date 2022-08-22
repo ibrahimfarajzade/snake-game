@@ -1,6 +1,6 @@
-# SnakeGame
+# Snake Game
 
-Snake game developed using HTML5, CSS and JavaScript with jQuery library.   
+Developed using HTML5, CSS and JavaScript with jQuery library.   
 Fall 2017
 
 ## Demo
